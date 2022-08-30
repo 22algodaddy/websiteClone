@@ -1,0 +1,12 @@
+.carouselDiv{
+    display: flex;
+    margin-left:550px;
+    margin-top: 50px;
+    align-items: center;
+    justify-content: center;
+    height:400px;
+    width:400px;
+
+
+
+}

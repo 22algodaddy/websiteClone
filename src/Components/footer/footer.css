@@ -1,0 +1,40 @@
+.footerDiv{
+    background-color:white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color:lightcyan;
+}
+.anchorTag{
+    text-decoration: none;
+    color:lightslategrey;
+}
+a:visited{
+    text-decoration: none;
+    color:#0f2332;
+}
+a:hover{
+    color:darkorange;
+    text-decoration: none;
+}
+.socialMedia{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+}
+.footerAnchor{
+    text-decoration: none;
+    color:mediumslateblue;
+    font-size:15px;
+    font-weight:600;
+}
+
+.footerCareAreaOptions{
+    margin-top:20px;
+}
+
+.aboutUsSentence{
+    font-size:15px;
+    font-weight:600;
+    color:lightslategrey;
+}

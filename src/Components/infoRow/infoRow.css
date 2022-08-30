@@ -1,0 +1,12 @@
+.infoRowDiv{
+    display:flex;
+    flex-direction: row;
+    justify-content:space-between;
+    background:url("https://www.qure.ai/wp-content/uploads/2022/02/company-info-background.png");
+}
+
+.infoRowSentence{
+    color:rgb(0,219,205);
+    font-size:20px;
+    font-weight:600;
+}

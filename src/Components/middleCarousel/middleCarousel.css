@@ -1,0 +1,6 @@
+.middleCarousel{
+    display: flex;
+    justify-content: space-around;
+    background-color:#333333;
+    z-index:1;
+}
